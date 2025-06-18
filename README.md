@@ -1,5 +1,7 @@
 ## Hi there 👋
-# 👋 Welcome to Srikanth Tech 360
+# 👋 Welcome to Srikanth Tech 360 
+
+Welcome to Srikanth Tech 360
 
 This GitHub profile is dedicated to ASP.NET Core projects, Azure Knowledge, AI-powered solutions, and more.
 
