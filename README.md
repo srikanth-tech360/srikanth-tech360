@@ -7,7 +7,7 @@ This GitHub profile is dedicated to ASP.NET Core projects, Azure Knowledge, AI-p
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... AI based POCs
+- 🔭 I’m currently working on ... AI based POCs, Azure, Enterprize Archietcture , Project Management
 - 🌱 I’m currently learning ... Azure and AI with ASP.NET Core
 .
 
