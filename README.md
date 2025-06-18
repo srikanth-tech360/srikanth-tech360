@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ... https://www.linkedin.com/in/srikanthgunti-it/
 
+<meta name="google-site-verification" content="L0btn_dQfBptlfWSMxOizOPlcmQeUioRNz5Q0Qqru7A" />
+
 
